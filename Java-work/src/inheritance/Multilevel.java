@@ -1,6 +1,5 @@
 package inheritance;
 
-				
 
 class A1{
 	void a() {
